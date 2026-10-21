@@ -1,0 +1,3 @@
+[functions.worker-proxy]
+verify_jwt = true
+entrypoint = "./functions/worker-proxy/index.ts"
